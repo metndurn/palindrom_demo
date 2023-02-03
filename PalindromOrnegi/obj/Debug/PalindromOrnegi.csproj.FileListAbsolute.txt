@@ -1,0 +1,8 @@
+C:\Users\METINDURAN\source\repos\PalindromOrnegi\PalindromOrnegi\bin\Debug\PalindromOrnegi.exe.config
+C:\Users\METINDURAN\source\repos\PalindromOrnegi\PalindromOrnegi\bin\Debug\PalindromOrnegi.exe
+C:\Users\METINDURAN\source\repos\PalindromOrnegi\PalindromOrnegi\bin\Debug\PalindromOrnegi.pdb
+C:\Users\METINDURAN\source\repos\PalindromOrnegi\PalindromOrnegi\obj\Debug\PalindromOrnegi.csproj.AssemblyReference.cache
+C:\Users\METINDURAN\source\repos\PalindromOrnegi\PalindromOrnegi\obj\Debug\PalindromOrnegi.csproj.SuggestedBindingRedirects.cache
+C:\Users\METINDURAN\source\repos\PalindromOrnegi\PalindromOrnegi\obj\Debug\PalindromOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\METINDURAN\source\repos\PalindromOrnegi\PalindromOrnegi\obj\Debug\PalindromOrnegi.exe
+C:\Users\METINDURAN\source\repos\PalindromOrnegi\PalindromOrnegi\obj\Debug\PalindromOrnegi.pdb
